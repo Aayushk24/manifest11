@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest
+
+<!-- [ Trees ] --> 
+   
+           <!-- (Device Trees) -->
+             <project path="device/xiaomi/miatoll" name="device_xiaomi_miatoll" remote="ub" revision="VoidUI-Tiramisu" />
+             <project path="device/xiaomi/sm6250-common" name="device_xiaomi_sm6250-common" remote="ub" revision="13" />
+  
+           <!-- (Vendor Trees) -->
+             <project path="vendor/xiaomi/miatoll" name="vendor_xiaomi_miatoll" remote="ub" revision="13" />
+             <project path="vendor/xiaomi/sm6250-common" name="vendor_xiaomi_sm6250-common" remote="ub" revision="13" />
+       
+           <!--(Kernel Trees)-->
+             <project path="kernel/xiaomi/sm6250" name="kernel_xiaomi_sm6250" remote="ub" revision="13" />

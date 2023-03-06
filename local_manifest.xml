@@ -13,3 +13,5 @@
        
            <!--(Kernel Trees)-->
              <project path="kernel/xiaomi/sm6250" name="kernel_xiaomi_sm6250" remote="ub" revision="13" />
+
+</manifest>

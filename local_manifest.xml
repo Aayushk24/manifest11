@@ -22,7 +22,7 @@
          <project path="vendor/xiaomi/sm6250-common" name="vendor_xiaomi_sm6250-common" remote="ak" revision="13" clone-depth="1" />
        
          <!--(Kernel Trees)-->
-         <project path="kernel/xiaomi/sm6250" name="kernel_xiaomi_sm6250" remote="ak" revision="13" clone-depth="1" />
+         <project path="namaste/xiaomi/miatoll" name="namaste_xiaomi_miatoll" remote="ak" revision="13" clone-depth="1" />
 
         <!-- (Clang) -->
         <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="clang" revision="master" clone-depth="1" />

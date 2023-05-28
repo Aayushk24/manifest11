@@ -26,9 +26,6 @@
 
         <!-- (Clang) -->
         <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="clang" revision="master" clone-depth="1" />
-        <project path="prebuilts/clang/host/linux-x86/clang-r437112b" name="android_prebuilts_clang_host_linux-x86_clang-r437112b" remote="arw" revision="master" clone-depth="1" />
-        <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="aro" revision="arrow-11.0" clone-depth="1" />
-        <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="amrito" revision="master" clone-depth="1" />
    
 
 </manifest>
